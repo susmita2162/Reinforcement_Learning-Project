@@ -1,0 +1,4 @@
+#How to run
+1. Open the code in colab/pycharm
+2. Execute every cell
+3. Can change the value of 'epsilon' to produce other relevant results.
